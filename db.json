@@ -3,5 +3,9 @@
         "ime": "Mirko",
         "prezime": "Ivanovic",
         "godine": 24
-    }
+    },
+    "loginPodaci": {
+        "username": "gn1mmargorp",
+        "password": "hubabuba"
+    }    
 }
