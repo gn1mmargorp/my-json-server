@@ -7,5 +7,10 @@
     "loginPodaci": {
         "username": "gn1mmargorp",
         "password": "hubabuba"
-    }    
+    },
+    "nekretnina": {
+        "vrsta": "stan",
+        "cijena": "€50000",
+        "lokacija": "Beograd"    
+    }
 }
